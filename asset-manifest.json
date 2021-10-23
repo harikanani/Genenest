@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Genenest/static/css/main.34188677.chunk.css",
+    "main.js": "/Genenest/static/js/main.5d3d6f86.chunk.js",
+    "main.js.map": "/Genenest/static/js/main.5d3d6f86.chunk.js.map",
+    "runtime-main.js": "/Genenest/static/js/runtime-main.04148056.js",
+    "runtime-main.js.map": "/Genenest/static/js/runtime-main.04148056.js.map",
+    "static/js/2.20db14b7.chunk.js": "/Genenest/static/js/2.20db14b7.chunk.js",
+    "static/js/2.20db14b7.chunk.js.map": "/Genenest/static/js/2.20db14b7.chunk.js.map",
+    "static/js/3.63176ba2.chunk.js": "/Genenest/static/js/3.63176ba2.chunk.js",
+    "static/js/3.63176ba2.chunk.js.map": "/Genenest/static/js/3.63176ba2.chunk.js.map",
+    "index.html": "/Genenest/index.html",
+    "static/css/main.34188677.chunk.css.map": "/Genenest/static/css/main.34188677.chunk.css.map",
+    "static/js/2.20db14b7.chunk.js.LICENSE.txt": "/Genenest/static/js/2.20db14b7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Genenest/static/media/im2.3afe5a1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04148056.js",
+    "static/js/2.20db14b7.chunk.js",
+    "static/css/main.34188677.chunk.css",
+    "static/js/main.5d3d6f86.chunk.js"
+  ]
+}
